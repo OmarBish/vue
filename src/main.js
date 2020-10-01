@@ -10,6 +10,8 @@ Vue.use(Vuesax, {
   // options here
 });
 
+//material-icons
+import "material-icons/iconfont/material-icons.css";
 Vue.config.productionTip = false;
 
 new Vue({
